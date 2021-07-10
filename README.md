@@ -1,2 +1,1 @@
-# techcynics-web
-This repo hosts the sources of our website
+We are coming soon
